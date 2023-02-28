@@ -1,7 +1,7 @@
-FROM ubuntu 
+FROM ubuntu:22.10
 
-LABEL maintainer="Carlo Barraco <carlobarraco@gmail.com>"
-LABEL author="Carlo Barraco <carlobarraco@gmail.com>"
+LABEL maintainer="BX <btbxbob@gmail.com>"
+LABEL author="BX <btbxbob@gmail.com>"
 LABEL description="An icecream daemon image based on the latest Ubuntu"
 
 ENV LANG=en_US.utf8
